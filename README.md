@@ -13,7 +13,7 @@
   - [Personal Website](http://zacharia.aboutcen.com)
   - [E-commerce Example](http://centralfreaks.com)
   - [Game Website](http://mygame.centralfreaks.com)
-- 🧑‍💼 Currently applying for roles in **Data Entry** and **IT** fields.
+- 🧑‍💼 Currently applying for roles in **Web Dev** and **Cloud**.
 - 📝 Working on improving my **English speaking skills** to enhance my career and networking opportunities.
 
 ### 🌐 Connect with Me!
@@ -36,7 +36,7 @@
 
 ### 🎯 Current Focus
 
-- 🚀 Applying for jobs that match my skills and interests in **IT** and **Data Entry**.
+- 🚀 Applying for jobs that match my skills and interests in **Web Dev** and **Cloud Computing **.
 - 💬 Continuously improving my **soft skills** and **English language proficiency**.
 
 ### Fun Facts
