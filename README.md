@@ -2,7 +2,7 @@
 <h2 align="center">Hi there, I'm Zacharia Ananta Wijaya<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
 <p align="center">
-I'm a young and driven Network Engineer, Web Developer, and Cloud Architect who specializes in creating high-quality, scalable, and secure applications. Currently studying at Telkom Malang Vocational High School and residing in Malang, East Java, Indonesia, I continuously explore and learn new technologies to keep up with industry trends. My areas of expertise include network infrastructure, front-end and back-end web development, cloud computing, and DevOps. Let's work together and create something amazing! Contact me through my personal email.
+As a passionate and skilled Web Developer with a strong background in cloud computing, network administration, and web development, I thrive in dynamic and fast-paced environments. During my internship, I honed my technical skills by solving complex issues, managing network infrastructure, and contributing to web development projects. I am committed to continuous learning and always eager to adapt to new challenges. My goal is to leverage my expertise to create impactful solutions in the tech industry, and I am excited about opportunities that allow me to grow professionally and make a meaningful contribution.
 </p>
 
 <!-- Skills -->
@@ -35,16 +35,16 @@ I'm a young and driven Network Engineer, Web Developer, and Cloud Architect who 
 
 <!-- Social media badges -->
 <p align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=tegardito02@gmail.com&authuser=0">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=zachawjaya159@gmail.com&authuser=0">
   <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white">
 </a>
-  <a href="https://www.linkedin.com/in/tegar-priandika-4233a7266/">
+  <a href="https://www.linkedin.com/in/zacharia-wijaya-373a51311/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/tega_r.dp/">
+  <a href="https://www.instagram.com/zachariaananta/">
     <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white">
   </a>
-  <a href="https://wa.me/6281233219130">
+  <a href="https://wa.me/6285704975338">
     <img alt="Whatsapp" src="https://img.shields.io/badge/-Whatsapp-25D366?style=flat-square&logo=whatsapp&logoColor=white">
   </a>
   <a href="https://www.digitalocean.com/?refcode=196d9bf2293b&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge">
