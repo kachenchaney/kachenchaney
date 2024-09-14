@@ -1,5 +1,5 @@
 <!--BIO-->
-<h2 align="center">Hi there, I'm Tegar Dito Priandika<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2 align="center">Hi there, I'm Zacharia Ananta Wijaya<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
 <p align="center">
 I'm a young and driven Network Engineer, Web Developer, and Cloud Architect who specializes in creating high-quality, scalable, and secure applications. Currently studying at Telkom Malang Vocational High School and residing in Malang, East Java, Indonesia, I continuously explore and learn new technologies to keep up with industry trends. My areas of expertise include network infrastructure, front-end and back-end web development, cloud computing, and DevOps. Let's work together and create something amazing! Contact me through my personal email.
