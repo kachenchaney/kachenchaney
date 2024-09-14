@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Zacharia Wijaya!
+# 👋 Hi, I'm Zacharia Ananta Wijaya!
 
 ### 🛠️ About Me
 
