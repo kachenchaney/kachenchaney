@@ -3,7 +3,7 @@
 ### 🛠️ About Me
 
 - 🎓 **Passionate Web Developer with expertise in cloud computing, network administration, and web development.**.
-- 💻 Experienced in **IT Support** with skills in **Cloud Computing**, **Network Administration**, and **Web Development**.
+- 💻 Experienced in **IT** with skills in **Cloud Computing**, **Network Administration**, and **Web Development**.
 - 🌱 Currently diving deeper into **Upwork** to expand my freelancing career.
 - 📜 I hold various certifications, including **Tahfidz**, **UKBI**, **TKJ (Highly Competent)**, and **Networking from Certipot**.
 
