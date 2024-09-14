@@ -36,7 +36,7 @@
 
 ### 🎯 Current Focus
 
-- 🚀 Applying for jobs that match my skills and interests in **Web Dev** and **Cloud Computing **.
+- 🚀 Applying for jobs that match my skills and interests in **Web Dev** and **Cloud Computing**.
 - 💬 Continuously improving my **soft skills** and **English language proficiency**.
 
 ### Fun Facts
