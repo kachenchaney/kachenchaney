@@ -2,7 +2,7 @@
 
 ### 🛠️ About Me
 
-- 🎓 **As a passionate and skilled Web Developer with a strong background in cloud computing, network administration, and web development, I thrive in dynamic and fast-paced environments. During my internship, I honed my technical skills by solving complex issues, managing network infrastructure, and contributing to web development projects. I am committed to continuous learning and always eager to adapt to new challenges. My goal is to leverage my expertise to create impactful solutions in the tech industry, and I am excited about opportunities that allow me to grow professionally and make a meaningful contribution.**.
+- 🎓 **Passionate Web Developer with expertise in cloud computing, network administration, and web development.**.
 - 💻 Experienced in **IT Support** with skills in **Cloud Computing**, **Network Administration**, and **Web Development**.
 - 🌱 Currently diving deeper into **Upwork** to expand my freelancing career.
 - 📜 I hold various certifications, including **Tahfidz**, **UKBI**, **TKJ (Highly Competent)**, and **Networking from Certipot**.
