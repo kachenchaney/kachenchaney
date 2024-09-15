@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Zacharia Ananta Wijaya!
 
-![Banner](https://placekitten.com/1200/300) <!-- Ganti URL ini dengan link gambar banner yang kamu inginkan -->
+![Banner](https://drive.google.com/uc?id=1mn7mEukWFWutaTcSxHvHWr17z4VvJ077)
+ <!-- Ganti URL ini dengan link gambar banner yang kamu inginkan -->
 
 ### 🛠️ About Me
 - 🎓 **Passionate Web Developer** with expertise in cloud computing, network administration, and web development.
