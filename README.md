@@ -2,7 +2,6 @@
 
 ![Banner](https://drive.google.com/uc?id=13iCRBbcCvhDa-zlBLUxu6X7asZpJZu_b)
 
- <!-- Ganti URL ini dengan link gambar banner yang kamu inginkan -->
 
 ### 🛠️ About Me
 - 🎓 **Passionate Web Developer** with expertise in cloud computing, network administration, and web development.
@@ -24,11 +23,12 @@
 
 ### 🌐 Connect with Me!
 <p align="center">
-    <a href="https://github.com/kachenchaney/" target="_blank"><img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub"/></a>
+    <a href="https://github.com/kachenchaney/" target="_blank"><img src="https://img.icons8.com/ios-glyphs/30/6e6e6e/github.png" alt="GitHub"/></a>
     <a href="https://www.linkedin.com/in/zacharia-wijaya-373a51311/" target="_blank"><img src="https://img.icons8.com/ios-glyphs/30/0077b5/linkedin.png" alt="LinkedIn"/></a>
     <a href="https://instagram.com/zachariaananta" target="_blank"><img src="https://img.icons8.com/fluency/30/instagram-new.png" alt="Instagram"/></a>
     <a href="https://x.com/ZachaWjaya" target="_blank"><img src="https://img.icons8.com/color/30/twitter--v1.png" alt="Twitter"/></a>
 </p>
+
 
 
 
