@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Zacharia Ananta Wijaya!
 
-![Banner](https://drive.google.com/uc?id=1mn7mEukWFWutaTcSxHvHWr17z4VvJ077)
+![Banner](https://drive.google.com/uc?id=13iCRBbcCvhDa-zlBLUxu6X7asZpJZu_b)
+
  <!-- Ganti URL ini dengan link gambar banner yang kamu inginkan -->
 
 ### 🛠️ About Me
